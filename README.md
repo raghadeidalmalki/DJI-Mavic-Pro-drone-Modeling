@@ -13,8 +13,6 @@ Using the datasheet published by APC (a company that manufactures propellers) th
 
 ![1706863859748](https://github.com/user-attachments/assets/14f10d3a-8713-4161-811d-7d7afdfdcf0f)
 
-![1706863861665](https://github.com/user-attachments/assets/2e2aa192-aa10-4f40-863f-ebdb30ee8b31)
-
 ![1706863860335](https://github.com/user-attachments/assets/7e06cd90-7cba-4ff6-ad07-0f87225e16f3)
 
 ![1706863859781](https://github.com/user-attachments/assets/d7360fae-e133-4cd1-971c-2c95acff1a7d)
@@ -26,6 +24,8 @@ Using the datasheet published by APC (a company that manufactures propellers) th
 ![1706863861104](https://github.com/user-attachments/assets/b3333248-1c30-4488-89a0-d3e4c89c1e69)
 
 ![1706863860674](https://github.com/user-attachments/assets/5ffdaf77-960a-4044-b8ef-b71e0359d6be)
+
+![1706863861665](https://github.com/user-attachments/assets/2e2aa192-aa10-4f40-863f-ebdb30ee8b31)
 
 ![1706863860940](https://github.com/user-attachments/assets/b82433b7-a087-4fdb-87bf-9a43faa4160e)
 
